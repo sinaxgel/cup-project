@@ -3,10 +3,10 @@ import React from "react";
 function Cup({ position, rotation = 0, cupRef }) {
   const cupHeight = 9.5; // 杯子高度
   const cupRadius = 4; // 杯子半径
-  const handleRadius = 3; // 把手环半径 4.25
+  const handleRadius = 4.25; // 把手环半径 4.25
   const handleThickness = 0.5; // 把手粗细
   const handleDistance = 4; // 把手到杯子中心的距离
-  const handleHeight = 5; // 把手在垂直方向的位置
+  const handleHeight = 4.75; // 把手在垂直方向的位置
 
   const cupMaterial = (
     <meshStandardMaterial
