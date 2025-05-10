@@ -5,3 +5,5 @@
 react + vite + threejs
 
 给朋友做着玩的...
+
+mac test
