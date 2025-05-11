@@ -5,6 +5,3 @@
 react + vite + threejs
 
 给朋友做着玩的...
-
-mac test
-fine 账户的一次提交
